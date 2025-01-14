@@ -1,0 +1,47 @@
+floating_maximum_size -1 x -1
+for_window [class="1Password"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="blastem"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="gnome-calculator"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="ffplay"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="Rhythmbox"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="mame"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="vlc"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="xpad"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="zoom"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [title="Rygar"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="SimpleScreenRecorder"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="com-altera-sopceditor-app-megawizard-MegaWizardLauncher"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="cypress"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="PdWindow"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="KiCad"] floating enable
+
+floating_maximum_size -1 x -1
+for_window [class="Cypress"] floating enable
