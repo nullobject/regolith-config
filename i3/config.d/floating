@@ -39,6 +39,7 @@ for_window [class="cypress"] floating enable
 
 floating_maximum_size -1 x -1
 for_window [class="PdWindow"] floating enable
+for_window [class="PatchWindow"] floating enable
 
 floating_maximum_size -1 x -1
 for_window [class="KiCad"] floating enable
