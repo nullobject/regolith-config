@@ -14,7 +14,7 @@ regolith.look: nullobject
 
 ! -- Specify either a complete file path to an image
 
-regolith.wallpaper.file: ~/.local/share/backgrounds/moss.jpg
+regolith.wallpaper.file: ~/.local/share/backgrounds/gumflower.jpg
 
 !-- *Or* specify a color
 
