@@ -26,7 +26,7 @@ floating_maximum_size -1 x -1
 for_window [class="zoom"] floating enable
 
 floating_maximum_size -1 x -1
-for_window [title="Rygar"] floating enable
+for_window [class="rygar"] floating enable
 
 floating_maximum_size -1 x -1
 for_window [class="SimpleScreenRecorder"] floating enable
@@ -40,6 +40,9 @@ for_window [class="cypress"] floating enable
 floating_maximum_size -1 x -1
 for_window [class="PdWindow"] floating enable
 for_window [class="PatchWindow"] floating enable
+for_window [class="HelpBrowser"] floating enable
+for_window [class="puredata"] floating enable
+for_window [class="DialogWindow"] floating enable
 
 floating_maximum_size -1 x -1
 for_window [class="KiCad"] floating enable
